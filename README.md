@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Cyber Security Researcher.</h3>
 
-<p align="center"><img src="images/peng.jpg"></p>
+<p align="center"><img src="images/peng.jpg" height="250" width="250"></p>
 
 - `whoami` Student at Kocaeli University and Cyber Security Associate Specialist at <a href="https://www.priviasecurity.com/en/">@Privia Security & PriviaHub</a>  
 
