@@ -4,7 +4,7 @@
 
 <p align="center"><img src="images/peng.jpg" height="250" width="250"></p>
 
-- `whoami` Student at Kocaeli University and Cyber Security Associate Specialist at <a href="https://www.priviasecurity.com/en/">@Privia Security & PriviaHub</a>  
+- `whoami` Student at Kocaeli University and Cyber Security Associate Specialist at <a href="https://www.priviasecurity.com/en/">@Privia Security</a> & <a href="https://priviahub.com/">@PriviaHub</a> 
 
 - `uptime` 19 years
 
