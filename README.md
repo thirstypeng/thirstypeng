@@ -4,7 +4,7 @@
 
 <p align="center"><img src="images/peng.jpg" height="250" width="250"></p>
 
-- `whoami` Student at Kocaeli University, core team member at GDSC Kocaeli University and Cyber Security Associate Specialist at <a href="https://www.priviasecurity.com/en/">@Privia Security</a> & <a href="https://priviahub.com/">@PriviaHub</a> 
+- `whoami` Student at Kocaeli University, Cyber Security Associate Specialist at <a href="https://www.priviasecurity.com/en/">@Privia Security</a> & <a href="https://priviahub.com/">@PriviaHub</a> and Core Team Member At GDSC Kocaeli
 
 - `uptime` 19 years
 
