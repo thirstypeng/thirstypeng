@@ -6,7 +6,7 @@
 
 - `whoami` Student at Kocaeli University, Cyber Security Associate Specialist at <a href="https://www.priviasecurity.com/en/">@Privia Security</a> & <a href="https://priviahub.com/">@PriviaHub</a> and Core Team Member At GDSC Kocaeli
 
-- `uptime` 19 years
+- `uptime` 20 years
 
 - `pwd` İstanbul, Turkey
 
